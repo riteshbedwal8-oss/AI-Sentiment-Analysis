@@ -1,5 +1,6 @@
 # 🤖 AI Sentiment Analyzer
-
+## Live APP:
+https://ai-sentiment-analysis-k5wffgovfxvj4s8cfa8tcs.streamlit.app/
 An advanced NLP-based Sentiment Analysis web application built using Machine Learning and Streamlit.
 
 ## 🚀 Features
